@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        /* rule set */
+        /* selector is the h1 */
+        /* declaration block is everything between {} */
+        /* every declaration has a PROPERTY and a VALUE */
+        h1 {
+            color: pink;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Creating an HTML Page</h1>
+
+    <p>I am creating my first html page.</p>
+
+    <!-- ul<li*10 -->
+        
+    <ul>
+    <li>Making</li>
+    <li>A</li>
+    <li>10</li>
+    <li>word</li>
+    <li>list</li>
+    <li>for</li>
+    <li>my</li>
+    <li>html</li>
+    <li>assignment</li>
+    <li>page</li>
+    </ul>
+
+
+</body>
+</html>
